@@ -1,0 +1,31 @@
+https://www.kaggle.com/datasets/monirahabdulaziz/noon-perfume?resource=download
+
+
+About Dataset
+Context
+This data was gathered as part of the web scraping project for the General Assembly Data Science Immersive course.
+
+Content
+noon is the lifestyle shopping destination for the region in Saudi Arabia, with the largest online selection of leading brands in categories such as electronics, fashion, health & beauty, fragrances, grocery, baby products, and homeware, noon is the one-stop-shopping destination for everyone. For this project, I choose the noon website, data was collected from the perfume section for female, male, and kids departments.
+
+Acknowledgements
+thanks to:
+
+GA team
+
+Misk academy
+
+noon
+
+Inspiration
+Perfume notes: let the model predict perfume notes.
+
+Department prediction: build a model to decide the perfume department based on the notes features
+
+Price prediction: predict the prices of the products based on the num_seller_ratings and other features
+
+Brand prediction: it seems that some brands have a favorite note, lets the machine guess the brand based on the notes features
+
+Concentration prediction: it seems that some concentration has a common note, lets the machine guess the concentration based on the notes features
+
+Feature Engineering: do magic and play around to create new features from this dataset
